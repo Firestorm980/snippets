@@ -19,7 +19,11 @@ The snippets here are all JS or jQuery based.
 
 - [JavaScript fallback (for WordPress)](https://github.com/Firestorm980/snippets/js/jquery-fallback.js)
 - [Unified TransitionEnd Event](https://github.com/Firestorm980/snippets/js/transition-end.js)
+- [Element In Viewport](https://github.com/Firestorm980/snippets/js/element-in-viewport.js)
+- [Number Formatting](https://github.com/Firestorm980/snippets/js/number-formatting.js)
 
+- [jQuery Touch For Sub Menus](https://github.com/Firestorm980/snippets/js/jquery_touch-menu.js)
+- [jQuery Window Scroll Throttle](https://github.com/Firestorm980/snippets/js/jquery_window-scroll.js)
 
 ##PHP##
 
@@ -37,3 +41,7 @@ The snippets here are all vanilla PHP. They may hook in or use other libraries. 
 - [Enqueue Scripts](https://github.com/Firestorm980/snippets/wordpress/wordpress_enqueue-scripts.php)
 - [iTunes RSS/Podcast Feed](https://github.com/Firestorm980/snippets/wordpress/wordpress_itunes-rss.php)
 - [Cleanup Head](https://github.com/Firestorm980/snippets/wordpress/wordpress_cleanup-head.php)
+- [Add Subscript/Superscript](https://github.com/Firestorm980/snippets/wordpress/wordpress_add-sub-sup.php)
+- [Paging Navigation Function](https://github.com/Firestorm980/snippets/wordpress/wordpress_paging.php)
+- [Add Post Link Classes](https://github.com/Firestorm980/snippets/wordpress/wordpress_post-links.php)
+- [Better WP Title](https://github.com/Firestorm980/snippets/wordpress/wordpress_wp-title.php)
