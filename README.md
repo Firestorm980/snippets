@@ -21,7 +21,6 @@ The snippets here are all JS or jQuery based.
 - [Unified TransitionEnd Event](https://github.com/Firestorm980/snippets/js/transition-end.js)
 - [Element In Viewport](https://github.com/Firestorm980/snippets/js/element-in-viewport.js)
 - [Number Formatting](https://github.com/Firestorm980/snippets/js/number-formatting.js)
-
 - [jQuery Touch For Sub Menus](https://github.com/Firestorm980/snippets/js/jquery_touch-menu.js)
 - [jQuery Window Scroll Throttle](https://github.com/Firestorm980/snippets/js/jquery_window-scroll.js)
 
